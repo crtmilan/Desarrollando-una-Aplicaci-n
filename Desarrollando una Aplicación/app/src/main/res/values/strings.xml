@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+    <string name="input_nombre">Nombre Completo</string>
+    <string name="input_telefono">Telefono</string>
+    <string name="input_email">Email</string>
+    <string name="input_date">Email</string>
+    <string name="input_descripcion">Descripcion Contacto</string>
+    <string name="text_cumpleaños">Fecha Nacimiento</string>
+    <string name="text_confirmar">Confirmar Datos</string>
+    <string name="text_nombre">Gerardo Monreal</string>
+    <string name="fecha">20/12/91</string>
+    <string name="text_fecha">Fecha Nacimiento: </string>
+    <string name="telefono">33445556</string>
+    <string name="text_telefono">Tel: </string>
+    <string name="email">gerardo@gmail.com</string>
+    <string name="text_email">Email: </string>
+    <string name="descripcion">Conocí a Gerardo en la universidad</string>
+    <string name="text_descripcion">Descripción: </string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="e_nombre">Nombre</string>
+    <string name="e_fecha">Fecha</string>
+    <string name="e_telefono">Telefono</string>
+    <string name="e_email">Email</string>
+    <string name="e_descripcion">Descripcion</string>
+    <string name="e_año">Año</string>
+    <string name="e_mes">Mes</string>
+    <string name="e_dia">Dia</string>
+</resources>
